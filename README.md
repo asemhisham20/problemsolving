@@ -23,9 +23,10 @@
 
 <hr>
 
-<br>
+## Roles
+1-Don't push a Sulotion during the contest
+
 
 <hr>
-
 ##for more understand you can watch this repo to understand how to contribute
 (https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023/blob/main/README.md)
